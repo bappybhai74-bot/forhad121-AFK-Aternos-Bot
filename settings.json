@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "free-1.skynodes.in",
+    "port": 25577,
     "version": "",
     "try-creative": false
   },
